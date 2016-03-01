@@ -7,3 +7,9 @@ write(fatt(4),stdout())
 
 # Ce l'abbiamo durooohhhh
 #asdasdasd
+
+
+funzione_prova <- function(numeric){
+	result <- numeric*3
+	return(result)
+}
