@@ -26,3 +26,8 @@ funzOBS <- function(x)
 }
 
 
+funzprova <- function(x)
+{
+	return(x)
+}
+
