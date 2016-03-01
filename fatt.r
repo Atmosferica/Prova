@@ -30,6 +30,8 @@ funzOBS <- function(x)
 
 funzprova <- function(x)
 {
+# commento tsh 
+# cazzi volanti in 4D e non funzionera` mai 
 	return(x)
 }
 
