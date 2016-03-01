@@ -41,4 +41,16 @@ funzprova <- function(x)
 
 #PROVAAAAAAAAAAAAAAAA
 
+area <- function (width, height, string){
+	if(string=='Rectangle'){
+		area <- width * height
+	}
+	
+	if(string=='Triangle'){
+		area <- (width*height)/2
+	}
+	
+	if(string!='Rectangle' & string!='Triangle') cat(paste('Pirla, scegli rettangolo o triangolo!', '\n', sep=''))
 
+	return(area)
+}
