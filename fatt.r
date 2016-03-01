@@ -5,4 +5,4 @@ fatt<-function(n)
 }
 write(fatt(4),stdout())
 
-# Ce l'abbiamo duro
+# Ce l'abbiamo durooohhhh
