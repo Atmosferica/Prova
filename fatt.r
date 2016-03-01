@@ -10,7 +10,10 @@ fun_M <- function(x)
 	return(2*x)
 }
 
-
+fun_M2 <- function(p)
+{
+	return(p*p)
+}
 
 funzOBS <- function(x)
 {
