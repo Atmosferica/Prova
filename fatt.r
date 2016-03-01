@@ -21,6 +21,7 @@ fun_M2 <- function(p)
 fun_M2 <- function(p)
 {
 	#ciao ciao ciao Mandelli
+	#commento di OBS
 	return(p*p*p)
 }
 
