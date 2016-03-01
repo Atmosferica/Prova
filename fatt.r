@@ -20,6 +20,7 @@ fun_M2 <- function(p)
 
 fun_M2 <- function(p)
 {
+	#commento di OBS
 	return(p*p*p)
 }
 
