@@ -12,3 +12,9 @@ fun_M <- function(x)
 
 
 
+funzOBS <- function(x)
+{
+	return(x)
+}
+
+
