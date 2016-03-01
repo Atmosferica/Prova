@@ -1,4 +1,5 @@
 # Questo codice fa schifo, va rifatto da capo!!
+# Modifica tsh di prova
 fatt<-function(n)
 {
 	if(n<=1){return(1)}
