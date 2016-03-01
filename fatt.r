@@ -15,6 +15,11 @@ fun_M2 <- function(p)
 	return(p*p)
 }
 
+fun_M2 <- function(p)
+{
+	return(p*p*p)
+}
+
 funzOBS <- function(x)
 {
 	return(x)
