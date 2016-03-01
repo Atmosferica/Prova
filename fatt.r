@@ -5,6 +5,13 @@ fatt<-function(n)
 }
 write(fatt(4),stdout())
 
+fun_M <- function(x)
+{
+	return(2*x)
+}
+
+
+
 funzOBS <- function(x)
 {
 	return(x)
