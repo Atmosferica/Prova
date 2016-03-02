@@ -8,3 +8,8 @@ first <- cbind(first, second)
 cat(paste(first, 'Hi, I should be a wonderful matrix!', '\n', sep=' '))
 
 # End of the stupid R script...
+
+
+
+# Are we sure it's really the end?
+# Yes, that's all folks!
