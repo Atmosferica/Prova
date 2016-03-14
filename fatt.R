@@ -1,6 +1,7 @@
 # Questo codice fa schifo, va rifatto da capo!!
 # Modifica tsh di prova
 
+
 source('some_stuff.R')
 
 fatt<-function(n)
