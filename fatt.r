@@ -1,0 +1,15 @@
+fatt<-function(n)
+{
+	if(n<=1){return(1)}
+	return(n*fatt(n-1))
+}
+write(fatt(4),stdout())
+
+# Ce l'abbiamo durooohhhh
+#asdasdasd
+
+
+funzione_prova <- function(numeric){
+	result <- numeric*3
+	return(result)
+}
