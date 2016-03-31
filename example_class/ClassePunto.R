@@ -4,3 +4,4 @@ setClass("punto",
 			y = "numeric"
 			)
 	 )
+#ciao!
